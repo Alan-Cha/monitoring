@@ -75,7 +75,7 @@ The following sample shows a template for the `metrics.json` file:
 ## Metrics dictionary
 {: #metrics-api-dictionary}
 
-To see the pre-defefined metrics by Sysdig, see [Metrics dictionary](https://docs.sysdig.com/en/metrics-dictionary.html){: external}.
+To see the pre-defined metrics by Sysdig, see [Metrics dictionary](https://docs.sysdig.com/en/metrics-dictionary.html){: external}.
 
 To see the pre-defined metrics that are defined by {{site.data.keyword.cloud_notm}} services that are Sysdig-enabled, see [Cloud services](/docs/monitoring?topic=monitoring-cloud_services).
 
